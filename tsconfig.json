@@ -1,0 +1,62 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "target": "es6",
+        "sourceMap": true,
+        "allowJs": true,
+        "outDir": "./dist",
+        "lib": [
+            "es2017",
+            "dom"
+        ],
+        "paths": {
+            "@src/*": [
+                "./src/*"
+            ],
+            "@decorators/*": [
+                "./src/decorators/*"
+            ],
+            "@guards/*": [
+                "./src/guards/*"
+            ],
+            "@schema/*": [
+                "./src/schema/*"
+            ],
+            "@interceptors/*": [
+                "./src/interceptors/*"
+            ],
+            "@interfaces/*": [
+                "./src/interfaces/*"
+            ],
+            "@middlewares/*": [
+                "./src/middlewares/*"
+            ],
+            "@filters/*": [
+                "./src/filters/*"
+            ],
+            "@common/*": [
+                "./src/modules/common/*"
+            ],
+            "@modules/*": [
+                "./src/modules/*"
+            ],
+            "@model/*": [
+                "../shared/model/*"
+            ],
+            "@enum/*": [
+                "../shared/enum/*"
+            ]
+        }
+    },
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}

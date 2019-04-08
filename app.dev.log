@@ -1,0 +1,92 @@
+{"timestamp":"2018-11-25T19:27:34.298Z","context":"Main","level":"info","message":"Starting Nest application..."}
+{"timestamp":"2018-11-25T19:27:34.345Z","context":"Main","level":"info","message":"MongooseModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.347Z","context":"Main","level":"info","message":"HttpModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.348Z","context":"Main","level":"info","message":"ConfigModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.434Z","context":"Main","level":"info","message":"MongooseCoreModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.436Z","context":"Main","level":"info","message":"MongooseModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.437Z","context":"Main","level":"info","message":"MongooseModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.438Z","context":"Main","level":"info","message":"MongooseModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.438Z","context":"Main","level":"info","message":"MongooseModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.439Z","context":"Main","level":"info","message":"MongooseModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.440Z","context":"Main","level":"info","message":"MongooseModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.441Z","context":"Main","level":"info","message":"MongooseModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.443Z","context":"Main","level":"info","message":"MongooseModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.474Z","context":"Main","level":"info","message":"LoginModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.475Z","context":"Main","level":"info","message":"RegisterModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.476Z","context":"Main","level":"info","message":"ApplicationModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.478Z","context":"Main","level":"info","message":"NewsModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.479Z","context":"Main","level":"info","message":"FormModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.480Z","context":"Main","level":"info","message":"StudyModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.481Z","context":"Main","level":"info","message":"QuestionModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.481Z","context":"Main","level":"info","message":"UserModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.483Z","context":"Main","level":"info","message":"CountryModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.483Z","context":"Main","level":"info","message":"InstituteModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.484Z","context":"Main","level":"info","message":"LanguageModule dependencies initialized"}
+{"timestamp":"2018-11-25T19:27:34.510Z","context":"Main","level":"info","message":"InitController {/api/init}:"}
+{"timestamp":"2018-11-25T19:27:34.514Z","context":"Main","level":"info","message":"Mapped {/, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.515Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.516Z","context":"Main","level":"info","message":"Mapped {/cica, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.517Z","context":"Main","level":"info","message":"UserController {/api/user}:"}
+{"timestamp":"2018-11-25T19:27:34.519Z","context":"Main","level":"info","message":"Mapped {/import, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.520Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.522Z","context":"Main","level":"info","message":"Mapped {/:id, PUT} route"}
+{"timestamp":"2018-11-25T19:27:34.523Z","context":"Main","level":"info","message":"Mapped {/, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.523Z","context":"Main","level":"info","message":"Mapped {/:id, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.524Z","context":"Main","level":"info","message":"Mapped {/:id/deep, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.525Z","context":"Main","level":"info","message":"LoginController {/api/login}:"}
+{"timestamp":"2018-11-25T19:27:34.526Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.527Z","context":"Main","level":"info","message":"CountryController {/api/country}:"}
+{"timestamp":"2018-11-25T19:27:34.528Z","context":"Main","level":"info","message":"Mapped {/import, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.529Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.532Z","context":"Main","level":"info","message":"Mapped {/:id, PUT} route"}
+{"timestamp":"2018-11-25T19:27:34.533Z","context":"Main","level":"info","message":"Mapped {/, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.534Z","context":"Main","level":"info","message":"Mapped {/:id, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.534Z","context":"Main","level":"info","message":"Mapped {/:id/deep, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.535Z","context":"Main","level":"info","message":"InstituteController {/api/institute}:"}
+{"timestamp":"2018-11-25T19:27:34.536Z","context":"Main","level":"info","message":"Mapped {/import, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.537Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.538Z","context":"Main","level":"info","message":"Mapped {/:id, PUT} route"}
+{"timestamp":"2018-11-25T19:27:34.539Z","context":"Main","level":"info","message":"Mapped {/, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.540Z","context":"Main","level":"info","message":"Mapped {/:id, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.542Z","context":"Main","level":"info","message":"Mapped {/:id/deep, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.543Z","context":"Main","level":"info","message":"LanguageController {/api/language}:"}
+{"timestamp":"2018-11-25T19:27:34.544Z","context":"Main","level":"info","message":"Mapped {/import, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.545Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.546Z","context":"Main","level":"info","message":"Mapped {/:id, PUT} route"}
+{"timestamp":"2018-11-25T19:27:34.547Z","context":"Main","level":"info","message":"Mapped {/, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.548Z","context":"Main","level":"info","message":"Mapped {/:id, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.549Z","context":"Main","level":"info","message":"Mapped {/:id/deep, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.550Z","context":"Main","level":"info","message":"NewsController {/api/news}:"}
+{"timestamp":"2018-11-25T19:27:34.552Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.553Z","context":"Main","level":"info","message":"Mapped {/:id, PUT} route"}
+{"timestamp":"2018-11-25T19:27:34.554Z","context":"Main","level":"info","message":"Mapped {/, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.555Z","context":"Main","level":"info","message":"Mapped {/:id, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.555Z","context":"Main","level":"info","message":"Mapped {/:id/deep, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.556Z","context":"Main","level":"info","message":"FormController {/api/form}:"}
+{"timestamp":"2018-11-25T19:27:34.557Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.558Z","context":"Main","level":"info","message":"Mapped {/:id, PUT} route"}
+{"timestamp":"2018-11-25T19:27:34.559Z","context":"Main","level":"info","message":"Mapped {/, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.560Z","context":"Main","level":"info","message":"Mapped {/:id, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.562Z","context":"Main","level":"info","message":"Mapped {/:id/deep, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.563Z","context":"Main","level":"info","message":"StudyController {/api/study}:"}
+{"timestamp":"2018-11-25T19:27:34.564Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.565Z","context":"Main","level":"info","message":"Mapped {/:id, PUT} route"}
+{"timestamp":"2018-11-25T19:27:34.566Z","context":"Main","level":"info","message":"Mapped {/, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.567Z","context":"Main","level":"info","message":"Mapped {/:id, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.571Z","context":"Main","level":"info","message":"Mapped {/:id/deep, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.572Z","context":"Main","level":"info","message":"QuestionController {/api/question}:"}
+{"timestamp":"2018-11-25T19:27:34.573Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.574Z","context":"Main","level":"info","message":"Mapped {/:id, PUT} route"}
+{"timestamp":"2018-11-25T19:27:34.575Z","context":"Main","level":"info","message":"Mapped {/, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.576Z","context":"Main","level":"info","message":"Mapped {/:id, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.577Z","context":"Main","level":"info","message":"Mapped {/:id/deep, GET} route"}
+{"timestamp":"2018-11-25T19:27:34.578Z","context":"Main","level":"info","message":"RegisterController {/api/register}:"}
+{"timestamp":"2018-11-25T19:27:34.579Z","context":"Main","level":"info","message":"Mapped {/, POST} route"}
+{"timestamp":"2018-11-25T19:27:34.584Z","context":"Main","level":"info","message":"Nest application successfully started"}
+{"timestamp":"2018-11-25T19:27:44.162Z","context":"QuestionService","level":"info","message":"Update {\"kind\":\"Email\",\"_id\":\"5bf9acc3de54fe80b0c83010\",\"label\":\"Új kérdés\",\"description\":\"update után jó lesz jó update első upd\",\"minLength\":0,\"maxLength\":100,\"createdAt\":\"2018-11-24T19:55:47.973Z\",\"updatedAt\":\"2018-11-24T20:49:49.992Z\",\"__v\":2,\"id\":\"5bf9acc3de54fe80b0c83010\",\"min\":null,\"max\":null,\"strict\":false,\"options\":null,\"updatedBy\":\"admin\"}"}
+{"timestamp":"2018-11-25T19:31:03.703Z","context":"QuestionService","level":"info","message":"Update {\"kind\":\"Email\",\"_id\":\"5bf9acc3de54fe80b0c83010\",\"label\":\"Új kérdés\",\"description\":\"update után jó lesz jó update első upd\",\"minLength\":0,\"maxLength\":100,\"createdAt\":\"2018-11-24T19:55:47.973Z\",\"updatedAt\":\"2018-11-25T19:27:44.275Z\",\"__v\":3,\"id\":\"5bf9acc3de54fe80b0c83010\",\"min\":null,\"max\":null,\"strict\":false,\"options\":null,\"updatedBy\":\"admin\"}"}
+{"timestamp":"2018-11-25T19:34:10.753Z","context":"NewsService","level":"info","message":"Create {\"text\":\"Adatbázis logolás bekapcsolva.\",\"readable\":true,\"updatedBy\":\"admin\"}"}
+{"timestamp":"2018-11-25T19:35:32.736Z","context":"NewsService","level":"info","message":"Create {\"text\":\"adatbázis logolás ki van kapcsolva\",\"readable\":true,\"updatedBy\":\"admin\"}"}
+{"timestamp":"2018-11-25T19:48:09.485Z","context":"NewsService","level":"info","message":"Create {\"text\":\"nincs semmi logolva\",\"readable\":true,\"updatedBy\":\"admin\"}"}
+{"timestamp":"2018-11-25T19:52:32.395Z","context":"NewsService","level":"info","message":"Create {\"text\":\"csakazuj\",\"readable\":true,\"updatedBy\":\"admin\"}"}
+{"timestamp":"2018-11-25T20:08:58.155Z","context":"NewsService","level":"info","message":"Create {\"text\":\"wewex\",\"readable\":true,\"updatedBy\":\"admin\"}"}

@@ -1,0 +1,7 @@
+{
+    "db": "mongodb://127.0.0.1:27017/norbox",
+    "secretToken": "Norbox4Every1#",
+    "externals": {
+        "hu": "http://localhost:3002"
+    }
+}
